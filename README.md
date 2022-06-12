@@ -26,7 +26,7 @@ You may access the github page [here](https://sarahcasauria.github.io/leaflet-ch
 For this optional task, I plotted a second data set on the map to illustrate the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>. Below are two screenshots of the map:
 
 ![Step-2 Greyscale](Images/Step-2.png)
-![Step-2 Satellite](Images/Step-2_satellie.png)
+![Step-2 Satellite](Images/Step-2_satellite.png)
 
 You may access the github page [here](https://sarahcasauria.github.io/leaflet-challenge/Step-2/index.html). NOTE: You will need a mapbox API key to load the data.
 - - -
